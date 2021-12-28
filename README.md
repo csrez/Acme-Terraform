@@ -3,7 +3,7 @@
 
  
 
- ![ACME Exercise Network](https://raw.githubusercontent.com/csrez/Acme-Terraform/main/env.jpg)
+ ![ACME Exercise Network](https://raw.githubusercontent.com/csrez/Acme-Terraform/master/env.jpg)
 
 
 
